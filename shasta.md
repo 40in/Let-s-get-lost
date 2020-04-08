@@ -1,3 +1,8 @@
+---- 
+Also, I found really **comprehensive** guide. So if you skim through this file and want to dig into details - https://www.shedreamsofalpine.com/blog/2017/7/7/mount-shasta-avalanche-gulch-route
+
+---
+
 ## :mount_fuji: What
 
 **[Mount Shasta](https://www.google.com/maps/place/Mount+Shasta/@41.3940904,-122.2283363,12.82z)**  
@@ -36,6 +41,8 @@ __Day 1:__
 __Day 2:__
 
 * Reserve. If it wasn’t possible to make to Helen Lake camp at the first day - do it acclimatize then.
+* -or-
+* Training/Acclimatization Day. Practicing snow skills (see below)
 * -or-
 * Otherwise - Wake up ⏰, grab some snacks and start to go up 👣.
 * See what’s going on there. Descent by foot or snowboard :snowboarder:.
@@ -104,6 +111,12 @@ __Day 3:__
 *Example*
 * Crampons&axe $35 = ~$70
 * Boots $40 = ~$80
+
+## Prepare yourself
+
+- Self-arresting https://www.youtube.com/watch?v=94QFImjdEAo& or https://www.youtube.com/watch?v=QN58FtFy7dU
+- how *not* to kill yourself walking in crampons https://www.youtube.com/watch?v=FQZYguAwRTo
+- not the worse playlist about winter skills (in most cases we don't need to know all, however it's fun to know) https://www.youtube.com/playlist?list=PLTodUXkQjZwxa2g6yfV21wLRXffbAdFxT
 
 ## Useful things
 
